@@ -1,2 +1,2 @@
 # estudo-java
-Criado para estadar a sintaxe Java
+Criado para estudar a sintaxe Java
